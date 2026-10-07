@@ -473,7 +473,7 @@ export const data: TalentData = {
           9,
           12,
           15,
-        ]}% chance to daze the target for 5 sec.`,
+        ]}% chance to daze the target for 4 sec.`,
       },
       "Seek and Destroy": {
         name: "Seek and Destroy",

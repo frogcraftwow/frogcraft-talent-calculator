@@ -161,7 +161,7 @@ export const data: TalentData = {
         description: talentText`Gives your Pummel ability a ${[
           50,
           100,
-        ]}% chance to silence the target for 2 sec.`,
+        ]}% chance to immobilize and silence the target for 2 sec.`,
       },
       "Deep Wounds": {
         name: "Deep Wounds",
@@ -589,7 +589,7 @@ export const data: TalentData = {
         description: talentText`Gives your Shield Bash ability a ${[
           50,
           100,
-        ]}% chance to silence the target for 2 sec.`,
+        ]}% % chance to immobilize and silence the target for 2 sec.`,
       },
       "Raging Bastion": {
         name: "Raging Bastion",

@@ -350,7 +350,7 @@ export const data: TalentData = {
         description: talentText`Gives your Kick ability a ${[
           50,
           100,
-        ]}% chance to silence the target for 2 sec.`,
+        ]}% chance to immobilize and silence the target for 2 sec.`,
       },
       "Lethality": {
         name: "Lethality",

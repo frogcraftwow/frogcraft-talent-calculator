@@ -18,13 +18,13 @@ export const data: TalentData = {
         icon: icons["spell_frost_stun"],
         maxRank: 5,
         reqPoints: 0,
-        description: talentText`Gives your Chain Lightning, Lightning Bolt, and Shock spells a ${[
-          2,
-          4,
+        description: talentText`Gives your Elemental spells a ${[
+          3,
           6,
-          8,
-          10,
-        ]}% chance to stun the target for 2 sec.`,
+          9,
+          12,
+          15,
+        ]}% chance to daze the target for 4 sec.`
       },
       "Storm's Guidance": {
         name: "Storm's Guidance",
