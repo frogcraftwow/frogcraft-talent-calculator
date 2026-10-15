@@ -560,7 +560,7 @@ export const data: TalentData = {
         icon: icons["inv_sword_17"],
         maxRank: 3,
         reqPoints: 15,
-        description: talentText`Causes your attacks to ignore N of your target's armor.  The amount of armor ignored increases with your level.`,
+        description: talentText`Causes your attacks to ignore armor increased by your level.`,
       },
       "Hemorrhage": {
         name: "Hemorrhage",
