@@ -300,11 +300,11 @@ export const data: TalentData = {
         maxRank: 5,
         reqPoints: 5,
         description: talentText`Gives you a ${[
+          1,
           2,
+          3,
           4,
-          6,
-          8,
-          10,
+          5,
         ]}% chance to generate 10 energy when you deal melee damage.`,
       },
       "Relentless Strikes": {
