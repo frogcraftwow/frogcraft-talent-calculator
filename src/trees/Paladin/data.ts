@@ -367,7 +367,7 @@ export const data: TalentData = {
         icon: icons["ability_thunderbolt"],
         maxRank: 3,
         reqPoints: 15,
-        description: talentText`Increases the damage done by your Seal of Righteousness spell by ${[
+        description: talentText`Increases the damage done by your Judgement of Righteousness and Seal of Righteousness spell by ${[
           5,
           10,
           15,
