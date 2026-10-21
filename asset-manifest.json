@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frogcraft-talent-calculator/static/css/main.c815258a.css",
-    "main.js": "/frogcraft-talent-calculator/static/js/main.7016e0c7.js",
+    "main.js": "/frogcraft-talent-calculator/static/js/main.922efb6e.js",
     "static/css/46.5fab5846.chunk.css": "/frogcraft-talent-calculator/static/css/46.5fab5846.chunk.css",
     "static/js/46.3713c3e4.chunk.js": "/frogcraft-talent-calculator/static/js/46.3713c3e4.chunk.js",
     "static/css/494.5fab5846.chunk.css": "/frogcraft-talent-calculator/static/css/494.5fab5846.chunk.css",
@@ -9,7 +9,7 @@
     "static/css/477.5fab5846.chunk.css": "/frogcraft-talent-calculator/static/css/477.5fab5846.chunk.css",
     "static/js/477.724ea16a.chunk.js": "/frogcraft-talent-calculator/static/js/477.724ea16a.chunk.js",
     "static/css/48.5fab5846.chunk.css": "/frogcraft-talent-calculator/static/css/48.5fab5846.chunk.css",
-    "static/js/48.ec6049e3.chunk.js": "/frogcraft-talent-calculator/static/js/48.ec6049e3.chunk.js",
+    "static/js/48.8a7e1da1.chunk.js": "/frogcraft-talent-calculator/static/js/48.8a7e1da1.chunk.js",
     "static/css/551.5fab5846.chunk.css": "/frogcraft-talent-calculator/static/css/551.5fab5846.chunk.css",
     "static/js/551.978e6dc1.chunk.js": "/frogcraft-talent-calculator/static/js/551.978e6dc1.chunk.js",
     "static/css/912.5fab5846.chunk.css": "/frogcraft-talent-calculator/static/css/912.5fab5846.chunk.css",
@@ -50,7 +50,7 @@
     "static/media/survival_instincts.jpg": "/frogcraft-talent-calculator/static/media/survival_instincts.29e44a68c42c648cbe1e.jpg",
     "index.html": "/frogcraft-talent-calculator/index.html",
     "main.c815258a.css.map": "/frogcraft-talent-calculator/static/css/main.c815258a.css.map",
-    "main.7016e0c7.js.map": "/frogcraft-talent-calculator/static/js/main.7016e0c7.js.map",
+    "main.922efb6e.js.map": "/frogcraft-talent-calculator/static/js/main.922efb6e.js.map",
     "46.5fab5846.chunk.css.map": "/frogcraft-talent-calculator/static/css/46.5fab5846.chunk.css.map",
     "46.3713c3e4.chunk.js.map": "/frogcraft-talent-calculator/static/js/46.3713c3e4.chunk.js.map",
     "494.5fab5846.chunk.css.map": "/frogcraft-talent-calculator/static/css/494.5fab5846.chunk.css.map",
@@ -58,7 +58,7 @@
     "477.5fab5846.chunk.css.map": "/frogcraft-talent-calculator/static/css/477.5fab5846.chunk.css.map",
     "477.724ea16a.chunk.js.map": "/frogcraft-talent-calculator/static/js/477.724ea16a.chunk.js.map",
     "48.5fab5846.chunk.css.map": "/frogcraft-talent-calculator/static/css/48.5fab5846.chunk.css.map",
-    "48.ec6049e3.chunk.js.map": "/frogcraft-talent-calculator/static/js/48.ec6049e3.chunk.js.map",
+    "48.8a7e1da1.chunk.js.map": "/frogcraft-talent-calculator/static/js/48.8a7e1da1.chunk.js.map",
     "551.5fab5846.chunk.css.map": "/frogcraft-talent-calculator/static/css/551.5fab5846.chunk.css.map",
     "551.978e6dc1.chunk.js.map": "/frogcraft-talent-calculator/static/js/551.978e6dc1.chunk.js.map",
     "912.5fab5846.chunk.css.map": "/frogcraft-talent-calculator/static/css/912.5fab5846.chunk.css.map",
@@ -73,6 +73,6 @@
   },
   "entrypoints": [
     "static/css/main.c815258a.css",
-    "static/js/main.7016e0c7.js"
+    "static/js/main.922efb6e.js"
   ]
 }
