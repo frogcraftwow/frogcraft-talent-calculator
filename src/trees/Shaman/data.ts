@@ -351,7 +351,8 @@ export const data: TalentData = {
           5,
           10,
           15,
-        ]}%.  Lasts 8 sec.`,
+        ]}%.  Lasts 8 sec.  Does not stack with other movement speed increasing effects.
+`,
       },
       "Improved Weapon Totems": {
         name: "Improved Weapon Totems",

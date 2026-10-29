@@ -354,7 +354,7 @@ export const data: TalentData = {
       ]}% and increases the duration of your Rip ability by ${[
         15,
         30,
-      ]}%.`,
+      ]}%.  Does not stack with other movement speed increasing effects.`,
     },
     "Blood Frenzy": {
       name: "Blood Frenzy",
